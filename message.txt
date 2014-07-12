@@ -1,0 +1,220 @@
+iTunes Terms and Conditions
+You agree that you will pay for all products you purchase through the Services, and that Apple may charge your payment method for any products purchased and for any additional amounts (including any taxes and late fees, as applicable) that may be accrued by or in connection with your Account. YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL FEES AND FOR PROVIDING APPLE WITH A VALID PAYMENT METHOD FOR PAYMENT OF ALL FEES. For details of how purchases are billed please visit support.apple.com/kb/HT5582.
+
+Your total price will include the price of the product plus any applicable sales tax; such sales tax is based on the bill-to address and the sales tax rate in effect at the time you download the product. We will charge tax only in states where digital goods are taxable.
+
+All sales and rentals of products are final.
+
+Prices for products offered via the Services may change at any time, and the Services do not provide price protection or refunds in the event of a price reduction or promotional offering.
+
+If a product becomes unavailable following a transaction but prior to download, your sole remedy is a refund. If technical problems prevent or unreasonably delay delivery of your product, your exclusive and sole remedy is either replacement or refund of the price paid, as determined by Apple.
+
+1-Click®
+
+1-Click is a registered service mark of Amazon.com, Inc., used under license. 1-Click is a convenient feature that allows you to make a purchase from the Services with a single click of your mouse or other input device. When accessing the Services on your computer, 1-Click purchasing may be activated via the dialog that appears when you click a Buy button. (You may reset this selection at any time by clicking Reset Warnings in your Account information). When accessing the Services on your Apple-branded products running iOS such as an iPad, iPod touch, or iPhone (“iOS Device”), 1-Click is activated for each transaction by tapping the button showing the price of the product, which reveals the Buy button. When 1-Click is activated, clicking or tapping the Buy button starts the download immediately and completes your transaction without any further steps.
+
+GIFT CERTIFICATES, ITUNES CARDS, ALLOWANCES, AND CONTENT CODES
+
+Gift Certificates, iTunes Cards, and Allowances are issued and managed by Apple Value Services, LLC (“Issuer”).
+
+Gift Certificates, iTunes Cards, Content Codes, and Allowances, in addition to unused balances, are not redeemable for cash and cannot be returned for a cash refund (except as required by law); exchanged; resold; used to purchase Gifts, Gift Certificates, or iTunes Cards; used to provide Allowances; used for purchases on the Apple Online Store; or used in Apple Retail Stores. Unused balances are not transferable.
+
+Gift Certificates, iTunes Cards, Content Codes, and Allowances purchased in the United States may be redeemed through the Services only in the United States, its territories, and possessions.
+
+The Gift Certificate/iTunes Card cash value is 1/10 of one cent.
+
+Neither Issuer nor Apple is responsible for lost or stolen Gift Certificates, iTunes Cards, Content Codes, or Allowances. Risk of loss and title for Gift Certificates, iTunes Cards, and Allowances transmitted electronically pass to the purchaser in Virginia upon electronic transmission to the recipient. Risk of loss and title for Content Codes transmitted electronically pass in California upon electronic transmission from Apple; for avoidance of doubt, such recipient may not always be you.
+
+Apple reserves the right to close accounts and request alternative forms of payment if a Gift Certificate, iTunes Card, Content Code, or Allowance is fraudulently obtained or used on the Service.
+
+APPLE, ISSUER, AND THEIR LICENSEES, AFFILIATES, AND LICENSORS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO GIFT CERTIFICATES, ITUNES CARDS, CONTENT CODES, ALLOWANCES, OR THE ITUNES STORE, APP STORE, MAC APP STORE, OR IBOOKS STORE, INCLUDING, WITHOUT LIMITATION, ANY EXPRESS OR IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN THE EVENT THAT A GIFT CERTIFICATE, ITUNES CARD, CONTENT CODE, OR ALLOWANCE IS NONFUNCTIONAL, YOUR SOLE REMEDY, AND OUR SOLE LIABILITY, SHALL BE THE REPLACEMENT OF SUCH GIFT CERTIFICATE, ITUNES CARD, CONTENT CODE, OR ALLOWANCE. THESE LIMITATIONS MAY NOT APPLY TO YOU. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY ALSO HAVE ADDITIONAL RIGHTS.
+
+GIFTS
+
+Gifts purchased from the Services may be purchased only for, and redeemed only by, persons in the United States, its territories, and possessions. Gift recipients must have compatible hardware and parental control settings to utilize some gifts.
+
+PRE-ORDERS
+
+By pre-ordering products, you are authorizing the Services to automatically charge your account and download the product when it becomes available. You may cancel your pre-order prior to the time the item becomes available.
+
+ELECTRONIC CONTRACTING
+
+Your use of the Services includes the ability to enter into agreements and/or to make transactions electronically. YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND TRANSACTIONS. YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC SUBMISSIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THIS SITE, INCLUDING NOTICES OF CANCELLATION, POLICIES, CONTRACTS, AND APPLICATIONS. In order to access and retain your electronic records, you may be required to have certain hardware and software, which are your sole responsibility.
+
+Apple is not responsible for typographic errors.
+
+B. ITUNES STORE TERMS AND CONDITIONS
+
+THIS LEGAL AGREEMENT BETWEEN YOU AND APPLE INC. ("APPLE") GOVERNS YOUR USE OF THE ITUNES STORE SERVICE (THE “ITUNES SERVICE”).
+
+THE ITUNES STORE SERVICE
+
+Apple is the provider of the iTunes Service, which permits you to purchase or rent digital content ("iTunes Products") for end user use only under the terms and conditions set forth in this Agreement.
+
+REQUIREMENTS FOR USE OF THE ITUNES SERVICE
+
+This iTunes Service is only available for individuals aged 13 years or older, unless you are under 13 years old and your Apple ID was provided to you as a result of a request by an approved educational institution. If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it.
+
+The iTunes Service is available to you only in the United States, its territories, and possessions. You agree not to use or attempt to use the iTunes Service from outside these locations. Apple may use technologies to verify your compliance.
+
+Use of the iTunes Service requires compatible devices, Internet access, and certain software (fees may apply); may require periodic updates; and may be affected by the performance of these factors. High-speed Internet access is strongly recommended for regular use and is required for video. The latest version of required software is recommended to access the iTunes Service and may be required for certain transactions or features and to download iTunes Products previously purchased from the iTunes Service. You agree that meeting these requirements, which may change from time to time, is your responsibility. The iTunes Service is not part of any other product or offering, and no purchase or obtaining of any other product shall be construed to represent or guarantee you access to the iTunes Service.
+
+YOUR ACCOUNT
+
+As a registered user of the iTunes Service, you may establish an account ("Account"). Don’t reveal your Account information to anyone else. You are solely responsible for maintaining the confidentiality and security of your Account and for all activities that occur on or through your Account, and you agree to immediately notify Apple of any security breach of your Account. Apple shall not be responsible for any losses arising out of the unauthorized use of your Account.
+
+In order to purchase and download iTunes Products from the iTunes Service, you must enter your Apple ID and password or use Touch ID to authenticate your Account for purchases. Once you have authenticated your Account using your Apple ID and password, you will not need to authenticate again for fifteen minutes on your computer or iOS Device; you can choose to allow your computer or Apple TV to remember your password to remain authenticated. During this time, you will be able to purchase and download iTunes Products without re-entering your password. You can turn off the ability to make iTunes Product purchases or change settings to require a password for every transaction by adjusting the settings on your computer, iOS Device, or Apple TV. For more information, please see http://support.apple.com/kb/HT1904 and http://support.apple.com/kb/HT4213.
+
+You agree to provide accurate and complete information when you register with, and as you use, the iTunes Service ("iTunes Registration Data"), and you agree to update your iTunes Registration Data to keep it accurate and complete. You agree that Apple may store and use the iTunes Registration Data you provide for use in maintaining and billing fees to your Account.
+
+AUTOMATIC DELIVERY AND DOWNLOADING PREVIOUS PURCHASES
+
+When you first acquire music iTunes Products and music video iTunes Products (collectively, “iTunes Auto-Delivery Content”), you may elect to automatically receive (“auto-download”) copies of such iTunes Auto-Delivery Content on additional compatible iOS Devices and iTunes-authorized computers with compatible software by associating such iOS Devices and computers subject to the association rules below (each, an “Associated Device”). For each Associated Device, you may specify which type of iTunes Auto-Delivery Content, if any, may be auto-downloaded to it. On an Associated Device that is capable of receiving push notifications (“Push-Enabled”), including iOS Devices, the iTunes Auto-Delivery Content will auto-download to that Associated Device when it has an Internet connection; on an Associated Device that is not Push-Enabled, iTunes Auto-Delivery Content will automatically appear in the download queue and you may manually initiate the download within iTunes.
+
+As an accommodation to you, subsequent to acquiring iTunes Auto-Delivery Content, purchased (i.e. not rented) movies iTunes Products and TV show iTunes Products (each, “iTunes Eligible Content”), you may download certain of such previously-purchased iTunes Eligible Content onto any Associated Device. Some iTunes Eligible Content that you previously purchased may not be available for subsequent download at any given time, and Apple shall have no liability to you in such event. As you may not be able to subsequently download certain previously-purchased iTunes Eligible Content, once you download an item of iTunes Eligible Content, it is your responsibility not to lose, destroy, or damage it, and you may want to back it up.
+
+Association of Associated Devices is subject to the following terms:
+
+(i) You may auto-download iTunes Auto-Delivery Content or download previously-purchased iTunes Eligible Content from an Account on up to 10 Associated Devices, provided no more than 5 are iTunes-authorized computers.
+
+(ii) An Associated Device can be associated with only one Account at any given time.
+
+(iii) You may switch an Associated Device to a different Account only once every 90 days.
+
+(iv) You may download previously-purchased free content onto an unlimited number of devices while it is free on the iTunes Service, but on no more than 5 iTunes-authorized computers.
+
+An Apple TV is not an “Associated Device.” However, TV show iTunes Products and purchased (i.e. not rented) movies iTunes Products may be played back on compatible Apple TVs, provided that you may only play back any such TV show or movie on a limited number of Apple TVs at the same time.
+
+Some pieces of iTunes Eligible Content may be large, and significant data charges may result from delivery of such iTunes Eligible Content over a data connection.
+
+ITUNES MATCH
+
+iTunes Match permits you to remotely access your matched or uploaded songs, and music videos you have purchased with your Account, along with related metadata, playlists, and other information about your iTunes Library (“iTunes Match Content”).
+
+You may subscribe to iTunes Match for an annual fee. You must have a valid credit card on file with iTunes to subscribe. The subscription is non-refundable (except as required by applicable law), and will automatically renew for one-year periods until you cancel. Your account will be charged no more than 24 hours prior to the expiration of the current subscription period. You may cancel automatic renewal by adjusting the iTunes Store account settings on your computer. You will no longer be able to access your iTunes Match Content from iTunes Match after the end of your subscription period.
+
+iTunes Match works with libraries that contain up to 25,000 songs which are either (i) not currently available on the iTunes Service, or (ii) not purchased from the iTunes Service with your Account. Songs that do not meet certain quality criteria or that are not authorized for your computer are not eligible for iTunes Match.
+
+iTunes Match will automatically scan the song files and collect other information that may be used to identify media in your iTunes library, such as the names of songs, song artists or song durations. iTunes Match will use this information to match songs to those currently available on the iTunes Store, and will make matched songs available to you in a format then available on the iTunes Store. If the song is not successfully matched, your copy of the song will be uploaded to Apple in the same format or a format determined by Apple. Apple reserves the right to limit types of content uploaded (for example, excessively large files). Matched or uploaded songs and related metadata will be available for access from an Associated Device that has been enabled for iTunes Match. Association of Associated Devices for iTunes Match is subject to the same terms as Automatic Delivery and Downloading Previous Purchases, and uploaded or matched songs and related information are deemed to be “iTunes Eligible Content.” You may also access iTunes Match Content from compatible Apple TVs, provided that you may only do so on a limited number of Apple TVs at the same time.
+
+When you use iTunes Match, Genius will begin associating information about the media in your iTunes library with your Account; the association with your Account will continue for a period of time after your subscription ends. Apple will otherwise use this information as described in the Privacy Section of this Agreement. You will not be able to disable Genius while using iTunes Match, so if you prefer that we do not collect and use information from your iTunes library in this manner, you should not use iTunes Match.
+
+You hereby agree to use iTunes Match only for lawfully acquired content. Any use for illegitimate content infringes the rights of others and may subject you to civil and criminal penalties, including possible monetary damages, for copyright infringement.
+
+iTunes Match is provided on an “AS IS” basis and may contain errors or inaccuracies that could cause failures, corruption or loss of data and/or information, including music, playlist, and play history, from your computer or device and from peripherals (including, without limitation, servers and other computers) connected thereto. You should back up all data and information on your computer or device and any peripherals prior to using iTunes Match. You expressly acknowledge and agree that all use of iTunes Match is at your sole risk. To the extent permitted by law, Apple shall have no liability with respect to your use of iTunes Match, including the inability to access matched or uploaded content.
+
+PRIVACY
+
+The iTunes Service is subject to Apple's Privacy Policy at http://www.apple.com/privacy/.
+
+When you opt in to the Genius feature, Apple will, from time to time, automatically collect information that can be used to identify media in your iTunes library on this computer, such as your play history and playlists. This includes media purchased through iTunes and media obtained from other sources. This information will be stored anonymously and will not be associated with your name or Account. When you use the Genius feature, Apple will use this information and the contents of your iTunes library, as well as other information, to give personalized recommendations to you.
+
+Apple may only use this information and combine it with aggregated information from the iTunes libraries of other users who also opt in to this feature, your iTunes Store purchase history data, aggregated purchase history data from other iTunes Store users, and other information obtained from third parties, to:
+
+• Create personalized playlists for you from your iTunes library.
+
+• Provide you with recommendations regarding media and other products and services that you may wish to purchase.
+
+• Provide recommendations regarding products and services to other users.
+
+At all times your information will be treated in accordance with Apple’s Privacy Policy.
+
+Once you opt in to the Genius feature in iTunes, you will be able to create Genius playlists on Genius-capable devices. To enable the Genius feature on a device, you must sync it with your iTunes library after you have opted in.
+
+If you prefer that we do not collect and use information from your iTunes library in this manner, you should not enable the Genius feature. You can revoke your opt-in choice at any time by turning off the Genius feature from the Store menu in iTunes on your computer. After you opt out, iTunes will no longer send information about your iTunes library to Apple. If you have elected to share your library from multiple computers, you need to turn off the Genius feature from each computer. The Genius feature cannot be enabled or disabled from your device.
+
+By opting in to the Genius feature, you consent to the use of your information as described above and as described in Apple’s Privacy Policy.
+
+CONTENT AVAILABILITY
+
+Apple reserves the right to change content options (including eligibility for particular features) without notice. For further information or concerns about closed captioning in specific content within the iTunes Store, please emailaccessibility@apple.com. You may also contact Thomas Montgomery, Accessibility Response Engineer, 1 Infinite Loop, Cupertino, California 95014, Phone/Fax: 408-783-5512.
+
+USE OF PURCHASED OR RENTED CONTENT
+
+You agree that the iTunes Service and certain iTunes Products include security technology that limits your use of iTunes Products and that, whether or not iTunes Products are limited by security technology, you shall use iTunes Products in compliance with the applicable usage rules established by Apple and its licensors (“Usage Rules”), and that any other use of the iTunes Products may constitute a copyright infringement. Any security technology is an inseparable part of the iTunes Products. Apple reserves the right to modify the Usage Rules at any time. You agree not to violate, circumvent, reverse-engineer, decompile, disassemble, or otherwise tamper with any of the security technology related to such Usage Rules for any reason—or to attempt or assist another person to do so. Usage Rules may be controlled and monitored by Apple for compliance purposes, and Apple reserves the right to enforce the Usage Rules without notice to you. You agree not to access the iTunes Service by any means other than through software that is provided by Apple for accessing the iTunes Service. You shall not access or attempt to access an Account that you are not authorized to access. You agree not to modify the software in any manner or form, or to use modified versions of the software, for any purposes including obtaining unauthorized access to the iTunes Service. Violations of system or network security may result in civil or criminal liability.
+
+USAGE RULES
+
+(i) You shall be authorized to use iTunes Products only for personal, noncommercial use.
+
+(ii) You shall be authorized to use iTunes Products on five iTunes-authorized devices at any time, except for Content Rentals (see below).
+
+(iii) You shall be able to store iTunes Products from up to five different Accounts at a time on compatible devices, provided that each iPhone may sync tone iTunes Products with only a single iTunes-authorized device at a time, and syncing an iPhone with a different iTunes-authorized device will cause tone iTunes Products stored on that iPhone to be erased.
+
+(iv) You shall be authorized to burn an audio playlist up to seven times.
+
+(v) You shall not be entitled to burn video iTunes Products or tone iTunes Products.
+
+(vi) iTunes Plus Products do not contain security technology that limits your usage of such products, and Usage Rules (ii) – (v) do not apply to iTunes Plus Products. You may copy, store, and burn iTunes Plus Products as reasonably necessary for personal, noncommercial use.
+
+(vii) You shall be able to manually sync a movie from at least one iTunes-authorized device to devices that have manual sync mode, provided that the movie is associated with an Account on the primary iTunes-authorized device, where the primary iTunes-authorized device is the one that was first synced with the device or the one that you subsequently designate as primary using iTunes.
+
+(viii) An HDCP connection is required to view content transmitted over HDMI.
+
+(ix) Content Rentals
+
+(a) Content rentals are viewable on only one device at a time. You must be connected to the iTunes Service when moving rentals, and you may do so only between your computer and other compatible devices. Content rented using your Apple TV, iPad, iPhone 4, or iPod touch (4th generation) may not be moved. If you move a rental to a compatible device and then use the iTunes Service to restore that device, or choose Settings > Reset > Erase all content and settings on that device, the rental will be permanently deleted.
+
+(b) Once you purchase a rental, you must fully download the rental within thirty (30) days. You have thirty (30) days after downloading a rental to begin viewing. Once you begin viewing, you have twenty-four (24) hours to finish viewing a movie. Stopping, pausing, or restarting a rental does not extend the available time for viewing.
+
+Some iTunes Products, including but not limited to Content rentals, may be downloaded only once and cannot be replaced if lost for any reason. It is your responsibility not to lose, destroy, or damage iTunes Products once downloaded, and you may wish to back them up.
+
+The delivery of iTunes Products does not transfer to you any commercial or promotional use rights in the iTunes Products. Any burning or exporting capabilities are solely an accommodation to you and shall not constitute a grant, waiver, or other limitation of any rights of the copyright owners in any content embodied in any iTunes Product.
+
+You acknowledge that, because some aspects of the iTunes Service, iTunes Products, and administration of the Usage Rules entails the ongoing involvement of Apple, if Apple changes any part of or discontinues the iTunes Service, which Apple may do at its election, you may not be able to use iTunes Products to the same extent as prior to such change or discontinuation, and that Apple shall have no liability to you in such case.
+
+SEASON PASS, MULTI-PASS, ITUNES PASS
+
+The full price of the Season Pass, Multi-Pass, or iTunes Pass is charged upon purchase. You must connect to the iTunes Service and download any remaining Pass content within 90 days after the final Pass content becomes available (or such other time period as may be specified on the purchase page), after which that content may no longer be available for download as part of the purchase. If automatic renewal is selected when you purchase a Multi-Pass, you will be charged the full price of each subsequent Multi-Pass cycle, unless and until you cancel automatic renewal prior to the beginning of the subsequent Multi-Pass cycle (in the Manage Passes section of your Account information). If a network or studio delivers fewer TV episodes than planned when you purchased a Season Pass, we will credit to your Account the retail value of the corresponding number of episodes.
+
+HIGH-DEFINITION (HD) ITUNES PRODUCTS
+
+HD iTunes Products are viewable only on HD capable devices; however, HD iTunes Products purchased (not rented) include a standard-definition version for use on non-HD devices.
+
+SUBMISSIONS TO THE ITUNES SERVICE
+
+The iTunes Service may offer interactive features that allow you to submit materials (including links to third-party content) on areas of the iTunes Service accessible and viewable by the public. You agree that any use by you of such features, including any materials submitted by you, shall be your sole responsibility, shall not infringe or violate the rights of any other party or violate any laws, contribute to or encourage infringing or otherwise unlawful conduct, or otherwise be obscene, objectionable, or in poor taste. You also agree that you have obtained all necessary rights and licenses. You agree to provide accurate and complete information in connection with your submission of any materials on the iTunes Service. You hereby grant Apple a worldwide, royalty-free, nonexclusive license to use such materials as part of the iTunes Service, and in relation to iTunes Products, without any compensation or obligation to you. Apple reserves the right to not post or publish any materials, and to remove or edit any material, at any time in its sole discretion without notice or liability.
+
+Apple has the right, but not the obligation, to monitor any materials submitted by you or otherwise available on the iTunes Service, to investigate any reported or apparent violation of this Agreement, and to take any action that Apple in its sole discretion deems appropriate, including, without limitation, termination hereunder or under Apple’s Copyright Policy (http://www.apple.com/legal/copyright.html).
+
+THIRD-PARTY MATERIALS
+
+Certain content, iTunes Products, and services available via the iTunes Service may include materials from third parties. Apple may provide links to third-party websites as a convenience to you. You agree that Apple is not responsible for examining or evaluating the content or accuracy and Apple does not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third parties. You agree that you will not use any third-party materials in a manner that would infringe or violate the rights of any other party and that Apple is not in any way responsible for any such use by you.
+
+OBJECTIONABLE MATERIAL
+
+You understand that by using the iTunes Service, you may encounter material that you may deem to be offensive, indecent, or objectionable, and that such content may or may not be identified as having explicit material. Nevertheless, you agree to use the iTunes Service at your sole risk and Apple shall have no liability to you for material that may be found to be offensive, indecent, or objectionable. iTunes Product types and descriptions are provided for convenience, and you agree that Apple does not guarantee their accuracy.
+
+IMPORTANT SAFETY INFORMATION
+
+To avoid muscle, joint, or eye strain during your use of the products offered through the iTunes Service, you should always take frequent breaks, and take a longer rest if you experience any soreness, fatigue, or discomfort. A very small percentage of people may experience seizures or blackouts when exposed to flashing lights or patterns, including but not limited to while playing video games or watching videos. Symptoms may include dizziness, nausea, involuntary movements, loss of awareness, altered vision, tingling, numbness, or other discomforts. Consult a doctor before using the products offered through the iTunes Service if you have ever suffered these or similar symptoms, and stop using such products immediately and see a doctor if they occur during your use of such products. Parents should monitor their children’s use of the products offered through the iTunes Service for signs of symptoms.
+
+INTELLECTUAL PROPERTY
+
+You agree that the iTunes Service, including but not limited to iTunes Products, graphics, user interface, audio clips, video clips, editorial content, and the scripts and software used to implement the iTunes Service, contains proprietary information and material that is owned by Apple and/or its licensors, and is protected by applicable intellectual property and other laws, including but not limited to copyright. You agree that you will not use such proprietary information or materials in any way whatsoever except for use of the iTunes Service in compliance with this Agreement. No portion of the iTunes Service may be reproduced in any form or by any means, except as expressly permitted in these terms. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the iTunes Service in any manner, and you shall not exploit the iTunes Service in any unauthorized way whatsoever, including, but not limited to, by trespass or burdening network capacity.
+
+Notwithstanding any other provision of this Agreement, Apple and its licensors reserve the right to change, suspend, remove, or disable access to any iTunes Products, content, or other materials comprising a part of the iTunes Service at any time without notice. In no event will Apple be liable for making these changes. Apple may also impose limits on the use of or access to certain features or portions of the iTunes Service, in any case and without notice or liability.
+
+All copyrights in and to the iTunes Service (including the compilation of content, postings, links to other Internet resources, and descriptions of those resources) and related software are owned by Apple and/or its licensors, who reserve all their rights in law and equity. THE USE OF THE SOFTWARE OR ANY PART OF THE ITUNES SERVICE, EXCEPT FOR USE OF THE ITUNES SERVICE AS PERMITTED IN THIS AGREEMENT, IS STRICTLY PROHIBITED AND INFRINGES ON THE INTELLECTUAL PROPERTY RIGHTS OF OTHERS AND MAY SUBJECT YOU TO CIVIL AND CRIMINAL PENALTIES, INCLUDING POSSIBLE MONETARY DAMAGES, FOR COPYRIGHT INFRINGEMENT.
+
+Apple, the Apple logo, iTunes, and other Apple trademarks, service marks, graphics, and logos used in connection with the iTunes Service are trademarks or registered trademarks of Apple Inc. in the U.S. and/or other countries. Other trademarks, service marks, graphics, and logos used in connection with the iTunes Service may be the trademarks of their respective owners. You are granted no right or license with respect to any of the aforesaid trademarks and any use of such trademarks.
+
+As an Account holder of the iTunes Service in good standing, you may be provided with limited access to download certain album cover art for music stored in the iTunes Library of your iTunes application. Such access is provided as an accommodation only, and Apple does not warrant, and will not have any liability or responsibility for, such album cover art or your use thereof. You may access album cover art only for music for which you are the lawful owner of a legal copy. Album cover art is provided for personal, noncommercial use only. You agree that you will not use album cover art in any manner that would infringe or violate this Agreement or the rights of any other party, and that Apple is not in any way responsible for any such use by you.
+
+TERMINATION
+
+If you fail, or Apple suspects that you have failed, to comply with any of the provisions of this Agreement, Apple, at its sole discretion, without notice to you may: (i) terminate this Agreement and/or your Account, and you will remain liable for all amounts due under your Account up to and including the date of termination; and/or (ii) terminate the license to the software; and/or (iii) preclude access to the iTunes Service (or any part thereof).
+
+Apple reserves the right to modify, suspend, or discontinue the iTunes Service (or any part or content thereof) at any time with or without notice to you, and Apple will not be liable to you or to any third party should it exercise such rights.
+
+DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION
+
+APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE ITUNES SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE ITUNES SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE ITUNES SERVICE AT ANY TIME, WITHOUT NOTICE TO YOU.
+
+YOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, THE ITUNES SERVICE IS AT YOUR SOLE RISK. THE ITUNES SERVICE AND ALL PRODUCTS AND SERVICES DELIVERED TO YOU THROUGH THE ITUNES SERVICE ARE (EXCEPT AS EXPRESSLY STATED BY APPLE) PROVIDED "AS IS" AND "AS AVAILABLE" FOR YOUR USE, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, THE ABOVE EXCLUSION OF IMPLIED WARRANTIES MAY NOT APPLY TO YOU.
+
+IN NO CASE SHALL APPLE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, OR LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF ANY OF THE ITUNES SERVICE OR FOR ANY OTHER CLAIM RELATED IN ANY WAY TO YOUR USE OF THE ITUNES SERVICE, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT (OR PRODUCT) POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE ITUNES SERVICE, EVEN IF ADVISED OF THEIR POSSIBILITY. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, APPLE'S LIABILITY SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+
+APPLE SHALL USE REASONABLE EFFORTS TO PROTECT INFORMATION SUBMITTED BY YOU IN CONNECTION WITH THE ITUNES SERVICE, BUT YOU AGREE THAT YOUR SUBMISSION OF SUCH INFORMATION IS AT YOUR SOLE RISK, AND APPLE HEREBY DISCLAIMS ANY AND ALL LIABILITY TO YOU FOR ANY LOSS OR LIABILITY RELATING TO SUCH INFORMATION IN ANY WAY.
+
+APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE ITUNES SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND APPLE DISCLAIMS ANY LIABILITY RELATING THERETO. SOME PRODUCTS CAN BE DOWNLOADED ONLY ONCE; AFTER BEING DOWNLOADED, THEY CANNOT BE REPLACED IF LOST FOR ANY REASON. YOU SHALL BE RESPONSIBLE FOR BACKING UP YOUR OWN SYSTEM, INCLUDING ANY ITUNES PRODUCTS PURCHASED OR RENTED FROM THE ITUNES STORE. 
