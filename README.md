@@ -4,7 +4,8 @@ secretMessages
 Embedding secure messages in an image to avoid detection
 
 Two images look identical in every way but within the RGB values of each pixel, you can encode values with slight variations which are invisible to the naked eye but can conceal a number which can map to an actual alphanumeric character.
-I could have used the ASCII value of to account for each character
+I could have used the ASCII value of a character but I wanted to keep the number mappings as small as possible so I created my own map.
+And the code also doesn't encode every pixel in order. Pixels are manipulated randomly but still keep order so the message is intact and it's harder to notice any changes.
 
 How to run:
 
