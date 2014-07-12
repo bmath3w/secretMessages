@@ -15,10 +15,10 @@ How to run:
 3. Take any text of an format and put it in a message.txt file in the same folder. The text can have any character in it but only the letters and numbers will be dissolved in the image.
 
 4. After steps 1-3, your folder should have the following files
-- imageEncoder.py
-- imageDecoder.py
-- message.txt
-- original.png
+a) imageEncoder.py
+b) imageDecoder.py
+c) message.txt
+d) original.png
 
 5. Through the command line or python IDE
 - run imageEncoder.py first (this will create 2 new images - one original and another encoded one)
