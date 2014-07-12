@@ -17,5 +17,7 @@ How to run:
 4. After steps 1-3, your folder should have the following files - imageEncoder.py, imageDecoder.py, message.txt, original.png
 
 5. Through the command line or python IDE
+
 - run imageEncoder.py first (this will create 2 new images - one original and another encoded one)
+
 - run imageDecoder.py (you'll see the message being decoded from the second image)
